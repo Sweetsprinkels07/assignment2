@@ -1,0 +1,9 @@
+Assignment
+*SSH-Secure Shell
+*Types of ssh
+.Public Key Authentication.
+.Password Authentication.
+.Host-Based Authentication.
+.Keyboard Authentication.
+.Authentication of Servers.
+
